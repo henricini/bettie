@@ -1,0 +1,2 @@
+module Lips::IndexHelper
+end

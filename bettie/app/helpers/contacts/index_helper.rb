@@ -1,0 +1,2 @@
+module Contacts::IndexHelper
+end

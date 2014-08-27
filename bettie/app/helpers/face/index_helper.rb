@@ -1,0 +1,2 @@
+module Face::IndexHelper
+end

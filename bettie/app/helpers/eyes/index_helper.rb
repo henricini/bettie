@@ -1,0 +1,2 @@
+module Eyes::IndexHelper
+end
